@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- description and page title -->
+	<meta name="description" content="A brief description of the Office of State Planning Coordination and the services it provides.">
+    <meta name="author" content="The State of Delaware">
+
+    <title>About the Office of State Planning Coordination - <!--#include virtual="/inc/site_title_name.shtml" --> - State of Delaware</title>
+
+	<!-- Header Include File -->
+	<!--#include virtual="/inc/CLF_header.shtml" -->
+  </head>
+
+<body>
+
+<!-- BEGIN Fixed Main Nav Bar -->
+<!--#include virtual="/inc/CLF_main_nav_bar.shtml" -->
+<!-- END Fixed Main Nav Bar -->
+
+<!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA -->
+<!--#include virtual="/inc/CLF_ens.shtml" -->
+<!-- END EMERGENCY NOTIFICATION AREA -->
+
+<!-- AGENCY TOP NAVIGATION -->
+<!--#include virtual="/inc/CLF_topnav.shtml" -->
+<!-- END AGENCY TOP NAVIGATION -->
+
+<!-- B E G I N   M A I N   C O N T E N T -->
+
+  <ol class="breadcrumb hidden-xs">
+    <li><a href="/"><strong>Home</strong></a></li>
+    <li class="text-muted">About the Office of State Planning Coordination</li>
+  </ol>
+
+<div class="container" id="readSpeak_test">
+<div data-swiftype-index='true'>
+  <div id="main-content">
+
+    <h1>About the Office of State Planning Coordination</h1>
+    
+      <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+        <a class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=aboutagency.shtml"> 
+          <span class="rsbtn_left rsimg rspart">
+            <span class="rsbtn_text">
+              <span>Listen</span>
+            </span>
+          </span> 
+          <span class="rsbtn_right rsimg rsplay rspart"></span> 
+        </a> 
+	  </div><br />
+
+    <!--<p>The Office of State Planning Coordination (OSPC) reports to the Governor's Office and works closely with the <a href="http://stateplanning.delaware.gov/ccspi.shtml">Cabinet Committee on State Planning Issues</a>. The Office of State Planning Coordination's mission is the continuous improvement of the coordination and effectiveness of land use decisions made by state, county, and municipal governments while building and maintaining a high quality of life in the State of Delaware.</p>-->
+    <p><!--The Office of State Planning Coordination (OSPC) reports to the Governor's Office and staffs the Cabinet Committee on State Planning Issues.--> The Office of State Planning Coordination works closely with and staffs the Cabinet Committee on State Planning Issues. The Office of State Planning Coordination's mission is the continuous improvement of the coordination and effectiveness of land use decisions made by state, county, and municipal governments while building and maintaining a high quality of life in the State of Delaware.</p>
+
+    <p><strong>OSPC meets its mission through:</strong></p>
+    
+    <ul>
+      <li>Effective coordination of state, county and local planning efforts;</li>
+      <li>Coordinating state agency review of major land use change proposals prior to submission to local governments; </li>
+      <li>Research, analysis, and dissemination of information concerning land use planning; and </li>
+      <li>Aiding the effort of the state to meet the information needs of state agencies and local governments, especially in the realm of spatial data and Geographic Information Systems (GIS). </li>
+      <!--  <li> 
+
+                    
+
+              <P> Effective coordination of state, county and local planning efforts;
+            <li> 
+
+                    <p>Coordinating state 
+
+                      agency review of major land use change proposals prior 
+
+                      to submission to local governments; 
+
+                  <li>
+
+                    <p>Research, analysis, and dissemination of information 
+
+                      concerning land use planning; and 
+
+                  <li>
+
+                    <p>Aiding the effort of the state to meet the information 
+
+                      needs of state agencies and local governments, especially 
+
+                      in the realm of spatial 
+
+                      data and Geographic Information Systems (GIS). -->
+
+                </ul>
+
+                <!--<p> <a href="http://delcode.delaware.gov/title29/c092/" target="_blank">Chapter 
+
+                  92</a> of Title 29 of the <u>Delaware Code</u> requires State 
+
+                  agencies to review major land use change proposals prior to 
+
+                  submission to local governments via The 
+
+                  Preliminary Land Use Service (PLUS), coordinated by the 
+
+                  Office of State Planning Coordination.</p>-->
+
+  </div>
+</div>
+</div>
+
+<!-- E N D   M A I N   C O N T E N T -->
+
+<!-- BEGIN Portal Footer -->
+<!--#include virtual="/inc/CLF_footer.shtml" -->
+<!-- END Portal Footer -->
+
+</body>
+</html>

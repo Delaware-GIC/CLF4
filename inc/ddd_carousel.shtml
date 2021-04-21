@@ -1,0 +1,88 @@
+	    <div class="row"><div class="col-sm-1"></div><div class="col-sm-10 center-block text-center"><div id="AgencyCarousel" class="carousel slide center-block text-center" data-ride="carousel">
+  			<!-- Indicators -->
+  			<ol class="carousel-indicators">
+  			  <li data-target="#AgencyCarousel" data-slide-to="0" class="active"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="1"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="2"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="3"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="4"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="5"></li>
+  			  <li data-target="#AgencyCarousel" data-slide-to="6"></li>
+  			</ol>
+
+  			<!-- Wrapper for slides -->
+  			<div class="carousel-inner" role="listbox">
+  			  <div class="item active text-center">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna1.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Representatives from Kent County Levy Court, Georgetown, Smyrna, Laurel, Milford, Harrington, Dover, and DSHA.</p>
+  			      </div>
+  			    </section>
+  			  </div>
+  			  
+  			  <div class="item center-block text-center">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna2.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Mayor Bryan Shupe, Milford</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			  <div class="item">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna3.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Mayor JoAnn Masten, Smyrna</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			  <div class="item">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna4.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Mayor John Shwed, Laurel</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			  <div class="item">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna5.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Mayor Bill West, Georgetown</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			  <div class="item">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna6.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Front L-R  Lauren Good (KCI), Connie Holland (OSPC Director), Norma Barlow (Police Chief behind), Teresa Tieman (Harrington City Manager), Tony Moyer (Mayor Harrington), Governor Jack Markell, Anas Ben Addi (DSHA Director), Duane Bivens (Harrington City Council), Amy Minner (Harrington City Council), Brooks Banta (President Kent County Levy Court), Debbie Pfeil (KCI)</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			  <div class="item">
+  			    <a href=""><img src="http://stateplanning.delaware.gov/ddd/images/2016/smyrna7.jpg" alt="" class="img-responsive" /><!-- title text as image alt text --></a>
+  			    <section>
+  			      <div class="carousel-caption">
+  			      	<p>Crowd gathers to watch the ceremony outside the Inn at Duck Creek, Smyrna DE</p>
+  			      </div>
+  			    </section>
+  			  </div>
+
+  			</div>
+  			<!-- Controls -->
+  			<a class="left carousel-control" href="#AgencyCarousel" data-slide="prev">
+  			  <i class="fa fa-angle-left fa-lg agency_control"></i>
+  			  <p class="wave_text">Previous</p>
+  			</a>
+  			<a class="right carousel-control" href="#AgencyCarousel" data-slide="next">
+  			  <i class="fa fa-angle-right fa-lg agency_control"></i>
+  			  <p class="wave_text">Next</p>
+  			</a>
+  		  </div></div><div class="col-sm-1"></div></div><br />

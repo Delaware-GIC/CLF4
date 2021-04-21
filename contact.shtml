@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- description and page title -->
+	<meta name="description" content="Staff names, phone numbers, and e-mail for the Delaware Office of State Planning Coordination">
+    <meta name="author" content="The State of Delaware">
+
+    <title>Contact Information - <!--#include virtual="/inc/site_title_name.shtml" --> - State of Delaware</title>
+
+	<!-- Header Include File -->
+	<!--#include virtual="/inc/CLF_header.shtml" -->
+  </head>
+
+<body>
+
+<!-- BEGIN Fixed Main Nav Bar -->
+<!--#include virtual="/inc/CLF_main_nav_bar.shtml" -->
+<!-- END Fixed Main Nav Bar -->
+
+<!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA -->
+<!--#include virtual="/inc/CLF_ens.shtml" -->
+<!-- END EMERGENCY NOTIFICATION AREA -->
+
+<!-- AGENCY TOP NAVIGATION -->
+<!--#include virtual="/inc/CLF_topnav.shtml" -->
+<!-- END AGENCY TOP NAVIGATION -->
+
+<!-- B E G I N   M A I N   C O N T E N T -->
+
+  <ol class="breadcrumb hidden-xs">
+    <li><a href="/"><strong>Home</strong></a></li>
+    <li class="text-muted">Contact Information</li>
+  </ol>
+
+<div class="container" id="readSpeak_test">
+<div data-swiftype-index='true'>
+  <div id="main-content">
+
+    <h1>Contact Information</h1>
+    
+      <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+        <a class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=contact.shtml"> 
+          <span class="rsbtn_left rsimg rspart">
+            <span class="rsbtn_text">
+              <span>Listen</span>
+            </span>
+          </span> 
+          <span class="rsbtn_right rsimg rsplay rspart"></span> 
+        </a> 
+	  </div><br />
+
+
+<div class="row">
+<div class="col-sm-6">
+
+<p><strong><a href="mailto:connie.holland@state.de.us">Constance Holland</a>, AICP</strong><br />
+State Planning Director<br />
+(302) 739-3090</p>
+
+<hr class="light" />
+
+<p><strong><a href="mailto:tricia.arndt@state.de.us">Tricia Arndt</a></strong><br />
+  Acting Circuit-Rider Planner for New Castle County<br />
+  (302) 739-3090</p>
+
+<p><a href="mailto:stephen.bayer@state.de.us"><strong>Stephen G. Bayer</strong></a><br />
+  Planner IV<br />
+  (302) 739-3090</p>
+
+<p><a href="mailto:temple.carter@state.de.us"><strong>Temple Carter</strong></a><br />
+  Planner<br />
+  (302) 739-3090</p>
+
+<p><strong><a href="mailto:david.edgell@state.de.us">David L. Edgell</a>, AICP</strong><br />
+Circuit-Rider Planner for Kent County<br />
+(302) 739-3090</p>
+
+
+<!--<p><strong><a href="mailto:william.matthews&#64;state.de.us">Bill Matthews</a></strong><br /> 
+Planner II<br>
+(302) 739-5135</p>-->
+
+<p><strong><a href="mailto:dorothy.morris@state.de.us">Dorothy Morris</a>, AICP</strong><br />
+Circuit-Rider Planner for Sussex County<br />
+(302) 739-3090</p>
+
+<p><strong><a href="mailto:miriam.pomilio@state.de.us">Miriam L. Pomilio</a></strong><br />
+  Principal Planner/GIS Coordination<br />
+  (302) 739-3090</p><br />
+
+</div>
+<div class="col-sm-6">
+
+<h3>OFFICE LOCATIONS</h3><br />
+          <!-- PAGE CONTENT:  The content of this page belongs in this area -->
+         <p>Haslet Armory<br />
+         122 Martin Luther King Jr. Blvd. South<br />
+         Dover, DE  19901</p>
+         
+         <div class="embed-responsive embed-responsive-16by9">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.8324219257297!2d-75.52258868464199!3d39.15579297953161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA5JzIwLjkiTiA3NcKwMzEnMTMuNCJX!5e0!3m2!1sen!2sus!4v1447690519078" width="600" height="450" class="embed-responsive-item"></iframe>
+         </div>
+</div>
+</div>
+
+
+  </div>
+</div>
+</div>
+
+<!-- E N D   M A I N   C O N T E N T -->
+
+<!-- BEGIN Portal Footer -->
+<!--#include virtual="/inc/CLF_footer.shtml" -->
+<!-- END Portal Footer -->
+
+</body>
+</html>

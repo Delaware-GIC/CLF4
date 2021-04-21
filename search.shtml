@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- description and page title -->
+    <meta name="description" content="The Office of State Planning Coordination's mission is the continuous improvement of the coordination and effectiveness of land use decisions made by state, county, and municipal governments while building and maintaining a high quality of life in the State of Delaware.">
+    <meta name="author" content="The State of Delaware">
+
+    <title><!--#include virtual="/inc/site_title_name.shtml" --> - State of Delaware</title>
+
+    <!-- Header Include File -->
+    <!--#include virtual="/inc/CLF_header.shtml" -->
+<style>
+/* Mime Types */
+a[href$=".pdf"]::after {
+display: none;
+font-family: "Font Awesome 5 Regular"; 
+content: "\f1c1";
+}
+a[href$=".pdf"] .svg-inline--fa {
+margin-left: 0.25em;
+color: #d50f13 !important;
+font-weight: 400;
+}
+a[href$=".doc"]::after {
+display: none;
+font-family: "Font Awesome 5 Regular"; 
+content: "\f1c2";
+}
+a[href$=".doc"] .svg-inline--fa {
+margin-left: 0.25em;
+color: #1a9ad9 !important;
+font-weight: 400;
+}
+a[href$=".docx"]::after {
+display: none;
+font-family: "Font Awesome 5 Regular"; 
+content: "\f1c2";
+}
+a[href$=".docx"] .svg-inline--fa {
+margin-left: 0.25em;
+color: #1a9ad9 !important;
+font-weight: 400;
+}
+a[href$=".xls"]::after {
+display: none;
+font-family: "Font Awesome 5 Regular"; 
+content: "\f1c3";
+}
+a[href$=".xls"] .svg-inline--fa {
+margin-left: 0.25em;
+color: #3e9630 !important;
+font-weight: 400;
+}
+a[href$=".ppt"]::after {
+display: none;
+font-family: "Font Awesome 5 Regular"; 
+content: "\f1c4";
+}
+a[href$=".ppt"] .svg-inline--fa {
+margin-left: 0.25em;
+color: #d24625 !important;
+font-weight: 400;
+}
+/* END MIME TYPES */
+</style>
+  </head>
+
+<body>
+
+<!-- BEGIN Fixed Main Nav Bar -->
+<!--#include virtual="/inc/CLF_main_nav_bar.shtml" -->
+<!-- END Fixed Main Nav Bar -->
+
+<!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA -->
+<!--#include virtual="/inc/CLF_ens.shtml" -->
+<!-- END EMERGENCY NOTIFICATION AREA -->
+
+<!-- AGENCY TOP NAVIGATION -->
+<!--#include virtual="/inc/CLF_topnav.shtml" -->
+<!-- END AGENCY TOP NAVIGATION -->
+
+<!-- B E G I N   M A I N   C O N T E N T -->
+
+<div class="container main_content"><br />
+    <form id="search-form">
+    <div class="row">
+        <div class="col-sm-10">
+            <input type="text" id="st-search-input" class="form-control input-lg">
+            <br />
+        </div>
+        <div class="col-sm-2">
+            <button type="submit" class="btn btn-warning btn-lg text-center center-block btn-block">Search</button>
+        </div>
+    </div>
+    <br />
+     <div id="filter" class="well well-sm hide">
+        <div class="row">
+             <div class="col-md-12">
+              <div class="form-inline">
+                    <div class="col-sm-1">
+                        <strong>Filter:</strong>
+                    </div>
+                    <div class="col-sm-11">
+                        <input type="radio" name="st-search-doctype" id="st-search-doctype" value="ALL">&nbsp;All Results
+                        <input type="radio" name="st-search-doctype" id="st-search-doctype" value="PDF">&nbsp;PDF
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </form>
+    <div class="row">
+        <div class="col-md-12">
+        <div id="st-results-container"></div>
+        </div>
+    </div>
+
+</div>
+<script src="js/swiftypeSearch.js"></script>
+
+<!-- E N D   M A I N   C O N T E N T -->
+
+<!-- BEGIN Portal Footer -->
+<!--#include virtual="/inc/CLF_footer.shtml" -->
+<!-- END Portal Footer -->
+
+</body>
+</html>

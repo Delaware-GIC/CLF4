@@ -1,0 +1,88 @@
+<div id="cssmenuTop" data-spy="affix" data-offset-top="60" class="affix">
+  <div id="cssmenu">
+    <ul>
+      <li><a href="/"><img src="/agency/img/ospc-new-logo.jpg" alt="Picture of the Office of State Planning Coordination (OSPC) logo" class="nav_logo" /><span class="nav_home">OSPC Home</span></a></li>
+      <li><a href="#">About</a>
+        <ul>      
+          <li><a href="/aboutagency.shtml">About The Office</a></li>
+          <li><a href="/ccspi.shtml">Cabinet Committee</a></li>
+          <li><a href="/information/publications.shtml">Publications</a></li>
+          <li><a href="/contact.shtml">Contact Information</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Land Use Planning</a>
+        <ul>
+          <li><a href="/strategies/">Strategies for State Policies and Spending</a></li>
+          <li><a href="/services/planning_assistance.shtml">Planning Assistance</a></li>
+          <li><a href="/services/budget.shtml">Capital Budget</a></li>
+          <li><a href="/services/annexation.shtml">Municipal annexations</a></li>
+        </ul>
+      </li>
+      <li><a href="#">PLUS</a>
+        <ul>
+          <li><a href="/plus/">Preliminary Land Use Service (PLUS)</a></li>
+          <li><a href="/plus/forms.shtml">Forms</a></li>
+          <li><a href="/plus/meetings.shtml">Meetings</a></li>
+          <li><a href="/plus/projects/2018/index.shtml">Current Activity</a></li>
+          <li><a href="/plus/archives.shtml">Archives</a></li>
+        </ul>
+      </li>
+      <li><a href="#">DDD</a>
+        <ul>
+          <li><a href="/ddd/">Downtown Development Districts (DDD)</a></li>
+          <li><a href="/ddd/program.shtml">About the Program</a></li>
+          <li><a href="/ddd/incentives/index.shtml">State Incentives</a></li>
+          <li><a href="http://delaware.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=c39125308a174d38980947d6ee3a30df" target="_blank">Delaware DDD Map</a></li>
+          <li><a href="https://spark.adobe.com/page/Gyn4CDdDwmMrt/" target="_blank">DDD Program Story</a></li>
+          <li><a href="https://arcg.is/0juDSi" target="_blank">DDD Projects Story Map</a></li>
+        </ul>
+      </li>
+      <li><a href="#">GIS &amp; Data</a>
+        <ul>
+          <li><a href="https://firstmap.gis.delaware.gov/" target="_blank">FirstMap</a></li>
+          <li><a href="https://delaware.maps.arcgis.com/home/" target="_blank">Delaware's ArcGIS Online</a></li>
+          <li><a href="http://opendata.firstmap.delaware.gov/" target="_blank">FirstMap Open Data</a></li>
+          <li><a href="https://news.delaware.gov/category/stateplanning/" target="_blank">OSPC News</a></li>
+          <li><a href="https://news.delaware.gov/category/stateplanning/feed/" target="_blank">Subscribe to the News RSS</a></li>
+          <li><a href="https://twitter.com/DelawareGIS" target="_blank">Follow @DelawareGIS on Twitter</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div id="agencyitems">
+      <a href="https://delaware.gov"><img src="/img/delaware_global_d_blue.png" class="logo_fade hidden-xs" alt="Delaware 'D' logo" />
+      <img src="/img/delaware_global_text_blue.png" class="delaware_fade" alt="Delaware.gov logo" /></a>
+      <p class="menu_text">OSPC Menu</p>
+
+      <!--[if !IE 8]><!-->
+      <div id="sb-search" class="sb-search pull-right">
+        <form id="agency-search" name="agency-search" role="search">
+          <input class="sb-search-input" placeholder="Search This Site" type="text" value="" name="agency-search-main" id="agency-search-main" />
+          <label for="agency-search-main">Search</label>
+          <input class="sb-search-submit" name="agencySearchButton" id="agencySearchButton" type="submit" value="Search" />
+          <span class="sb-icon-search"><i class="fa fa-search fa-fw"></i></span>
+        </form>
+      </div>
+      <!--<![endif]-->
+
+      <!--[if IE 8 ]>
+      <div id="sb-search" class="sb-search pull-right">
+        <form id="agency-search" name="agency-search" role="search">
+          <input class="sb-search-input" placeholder="Search for agencies, services, and more..." type="text" value="" name="agency-search-main" id="agency-search-main" />
+          <label for="search">Search</label>
+          <input class="sb-search-submit" name="agencySearchButton" id="agencySearchButton" type="submit" value="" />
+          <span class="sb-icon-search"><i class="fa fa-search fa-fw"></i></span>
+        </form>
+      </div>
+      <![endif]-->
+    </div>
+  </div>
+</div>
+
+<div class="offset-div"></div>
+
+
+
+
+
+
+                

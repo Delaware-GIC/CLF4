@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- description and page title -->
+	<meta name="description" content="The Office of State Planning Coordination's mission is the continuous improvement of the coordination and effectiveness of land use decisions made by state, county, and municipal governments while building and maintaining a high quality of life in the State of Delaware.">
+    <meta name="author" content="The State of Delaware">
+
+    <title><!--#include virtual="/inc/site_title_name.shtml" --> - State of Delaware</title>
+
+	<!-- Header Include File -->
+	<!--#include virtual="/inc/CLF_header.shtml" -->
+  </head>
+
+<body>
+
+<!-- BEGIN Fixed Main Nav Bar -->
+<!--#include virtual="/inc/CLF_main_nav_bar.shtml" -->
+<!-- END Fixed Main Nav Bar -->
+
+<!-- EMERGENCY NOTIFICATION SYSTEM (ENS) AREA -->
+<!--#include virtual="/inc/CLF_ens.shtml" -->
+<!-- END EMERGENCY NOTIFICATION AREA -->
+
+<!-- AGENCY TOP NAVIGATION -->
+<!--#include virtual="/inc/CLF_topnav.shtml" -->
+<!-- END AGENCY TOP NAVIGATION -->
+
+<!-- B E G I N   M A I N   C O N T E N T -->
+
+  <!-- BEGIN  Main Titles and Header -->
+<a class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-na.readspeaker.com/cgi-bin/rsent?customerid=7262&lang=en_us&readid=readSpeak_test&url=index.shtml"><span class="wave_text">Listen to this page using ReadSpeaker</span></a>
+  <div id="headerImage" style="background-image:url('/agency/img/ospc-development-hero.jpg')">
+    <h1 class="stateTitle">Office of State Planning Coordination</h1>
+  </div><br />
+  <!-- END  Main Titles and Header -->
+  
+<div id="main-content"></div>
+<div data-swiftype-index='true'>
+<div id="howHelp">
+
+  <div class="container">
+    
+    <h2 class="text-center" id="helpHeader">How can we help you?</h2><br />
+    
+    <div class="row" id="iconsLeft">
+      <div class="col-sm-4">
+        <a href="/services/planning_assistance.shtml"><img src="agency/img/ospc-help-icons-landuse.png" alt="Picture of a compass icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">Land Use Planning</h3><br />
+      </div>
+      <div class="col-sm-4">
+        <a href="/plus/"><img src="agency/img/ospc-help-icons-preland.png" alt="Picture of land survey scope icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">Preliminary Land Use Service</h3><br />
+      </div>
+      <div class="col-sm-4">
+        <a href="/ddd/"><img src="agency/img/ospc-help-icons-ddd.png" alt="Picture of some city buildings icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">Downtown Development Districts</h3><br />
+      </div>
+    </div><br />
+    
+    <div class="row" id="iconsRight">
+      <div class="col-sm-4">
+        <a href="/dgdc/"><img src="agency/img/ospc-help-icons-gis.png" alt="Picture of a map pin icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">GIS, Demographics &amp; Data</h3><br />
+      </div>
+      <div class="col-sm-4">
+        <a href="/information/publications.shtml"><img src="agency/img/ospc-help-icons-pubs.png" alt="Picture of some archived publications icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">Publications</h3><br />
+      </div>
+      <div class="col-sm-4">
+        <a href="https://publicmeetings.delaware.gov/Search?q=&AnyAll=Any&AgencyID=121" target="_blank"><img src="agency/img/ospc-help-icons-meetings.png" alt="Picture of a calendar icon" class="img-responsive helpIcons center-block text-center" /></a>
+        <h3 class="text-center">Public Meetings</h3><br />
+      </div>
+    </div><br /><br />
+
+
+    
+    <h2 class="text-center" id="newsHeader">What's going on?</h2><br />
+    
+    <div class="row" id="newsLeft">
+      <div class="col-sm-6">
+        <h4>February PLUS Meeting Set</h4>
+      </div>
+      <div class="col-sm-6">
+        <p>An agenda has been posted for the <a href="/plus/agenda/2018/20180228-agenda.pdf" target="_blank">February 28, 2018</a> meeting of the <a href="/plus/">Preliminary Land Use Service</a> (PLUS). State agency planners will meet to review <a href="/plus/projects/2018/index.shtml#february">land use change proposals and planning documents</a> prior to giving input to local governments, who make the final land-use decisions. The meeting will start at 9:00 a.m. in first floor conference room of the Haslet Armory, on Martin Luther King Jr., Blvd. South, in Dover.</p>
+      </div>
+    </div><br />
+
+    <div class="row" id="newsRight">
+      <div class="col-sm-6">
+        <h4>Provide input into Sussex County Comprehensive Plan Update</h4>
+      </div>
+      <div class="col-sm-6">
+        <p>The League of Women Voters of Sussex County invite citizens of Sussex County to provide input into the updating of the <a href="//sussexplan.com/" target="_blank">Sussex County Comprehensive Plan</a>. At the conclusion of every Planning and Zoning meeting, the Commissioners receive an update on the 2018 Comprehensive Plan. Members of the public are then invited to share their concerns and/or their vision about what they want to see in the 2018 Comp Plan for Sussex County. This is your opportunity to go on record and influence Sussex County policy.  The P&amp;Z Commission meets twice monthly. <a href="//sussexcountyde.gov/agendas-minutes/planning-%26-zoning-commission" target="_blank">Schedule of P&amp;Z Commission meetings</a>.</p>
+      </div>
+    </div><br /><br />
+
+
+    
+    <h2 class="text-center" id="featureHeader">New DDD Grant Applications Now Open!</h2><br />
+    
+    <div id="featureText">
+      <p class="lead">DSHA is accepting applications now through 4:00 p.m., December 15 for large project grants through the Downtown Development District Program.</p>
+      
+      <p>The grants provide up to 20 percent rebates on qualified real property investments in one of the eight designated downtown districts, in Dover, Georgetown, Harrington, Laurel, Milford, Seaford, Smyrna and Wilmington. View additional information and application materials</a> or contact DSHA at 888-363-8808.</p><br />
+    
+      <a href="//destatehousing.com/Developers/developermedia/ddd_aag_grant.pdf" target="_blank" class="btn btn-lg btn-ospc">Read More</a>
+    </div><br /><br /><br />
+
+    <h2 class="text-center" id="mapHeader">2015 Strategies Interactive Map</h2><br />
+  </div>
+
+  <div class="embed-responsive embed-responsive-16by9" id="mapFull">
+    <iframe width="300" height="200" class="border-none embed-responsive-item" title="Delaware State Strategies 2015" src="//delaware.maps.arcgis.com/apps/Embed/index.html?webmap=2cc9f32df440430f8b8d92ebaa1355fb&amp;extent=-76.6915,38.2316,-73.9998,39.998&amp;zoom=true&amp;scale=false&amp;disable_scroll=true&amp;theme=light"></iframe>
+  </div><br /><br />
+
+  <div class="container">
+    
+    <img src="agency/img/ospc-survey-tools.jpg" alt="Illustration of some land survey equipment and a map" class="img-responsive center-block text-center" id="surveyPic" />
+
+    <div class="row">
+      <div class="col-sm-6" id="aboutLeft">
+        <h4>About The Office of State Planning Coordination</h4>
+      </div>
+      <div class="col-sm-6" id="aboutRight">
+        <p>The Office of State Planning Coordination (OSPC) reports to the Governor's Office and staffs the Cabinet Committee on State Planning Issues. The Office of State Planning Coordination's mission is the continuous improvement of the coordination and effectiveness of land use decisions made by state, county, and municipal governments while building and maintaining a high quality of life in the State of Delaware.</p><br />
+        <a href="aboutagency.shtml" class="btn btn-lg btn-ospc">Read More</a><br /><br /><br />
+      </div>
+    </div><br /><br />
+  </div>
+  
+</div>
+</div>
+
+<!-- E N D   M A I N   C O N T E N T -->
+
+<!-- BEGIN Portal Footer -->
+<!--#include virtual="/inc/CLF_footer.shtml" -->
+<!-- END Portal Footer -->
+
+</body>
+</html>

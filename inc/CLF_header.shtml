@@ -1,0 +1,81 @@
+    <!-- Bookmarklets Icon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/agency/img/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/agency/img/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/agency/img/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/agency/img/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/agency/img/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/agency/img/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/agency/img/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/agency/img/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/agency/img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/agency/img/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/agency/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/agency/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/agency/img/favicon-16x16.png">
+    <link rel="manifest" href="/agency/img/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Custom Styles for Header and Footer CLF4 -->
+    <link href="/css/CLF_styles.css" rel="stylesheet" type='text/css'>
+
+    <!-- Custom Styles for Open Checkbook Department -->
+    <link href="/agency/css/CLF_ospc_styles.css" rel="stylesheet" type='text/css'>
+
+    <!-- Retina Display LESS Styles -->
+    <link href="/css/retina.less" rel="stylesheet" type='text/css'>
+
+    <!-- CSS Animations Styles -->
+    <link href="/css/animate.min.css" rel="stylesheet" type='text/css'>
+
+    <!-- Body Font Styles (From Google.com/fonts) -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700" rel="stylesheet">
+
+    <!-- Header Font Styles (From Google.com/fonts) -->
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <!-- Core JavaScript
+    ================================================== -->
+    <script src="/js/jquery-1.12.0.min.js"></script>
+    <script src="/js/jquery.easing.1.3.js"></script>
+    <script src="/js/jquery.smooth-scroll.min.js"></script>
+    <script src="/js/jquery.inview.min.js"></script>
+
+    <!-- ready scripts -->
+        <!--[if IE 9]>
+          <script src="/js/ready_ie9.js"></script>
+        <![endif]-->
+
+        <!--[if !IE]> -->
+          <script src="/js/ready.js"></script>
+        <!-- <![endif]-->
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- Read Speaker -->
+    <script src="http://f1.na.readspeaker.com/script/7262/ReadSpeaker.js?pids=embhl"></script>
+    
+    <script>
+      FontAwesomeConfig = { searchPseudoElements: true };
+    </script>
+    
+    <!-- Font Awesome Icons -->
+    <script src="https://use.fontawesome.com/releases/v5.1.0-6/js/all.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.1.0-6/js/v4-shims.js"></script>
+
+    <!-- SWIFTYPE INCLUDES -->
+    <script src="/js/swiftypeConfig.js"></script>
+    <script src="/js/jquery.swiftype.autocomplete.js"></script>
+    <script src="/js/jquery.ba-hashchange.min.js"></script>
+    <script src="/js/jquery.swiftype.search.js"></script>
+    <!-- END SWIFTYPE INCLUDES -->
+
+    <!-- SWIFYTPE CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/swiftype.search.css"/>
+    <!-- END SWIFYTPE CSS -->

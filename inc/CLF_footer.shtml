@@ -1,0 +1,93 @@
+<!--#include virtual="/inc/CLF_agencyFooter.shtml" -->
+
+    <div id="footer">
+      <div class="container">
+        <h1 class="main_footer">Delaware's Government</h1>
+        <hr />
+        <div class="row">
+            <div class="col-sm-3">
+				<p><a href="https://governor.delaware.gov">Delaware's Governor</a><br />
+				<a href="https://delaware.gov/topics/agencylist_alpha">State Agencies</a><br />
+				<a href="https://delaware.gov/topics/yourgovernment">Elected Officials</a><br />
+				<a href="https://legis.delaware.gov/">General Assembly</a><br />
+				<a href="https://courts.delaware.gov/">Delaware Courts</a><br />
+				<a href="https://delawarepersonnel.com/information/employee_resources.shtml">State Employees</a><br />
+				<a href="https://delaware.gov/topics/municipalities">Cities &amp; Towns</a><br />
+				<a href="http://delcode.delaware.gov/">Delaware State Code</a><br />
+				<a href="http://regulations.delaware.gov/">State Regulations</a><br />
+				<a href="https://firststeps.delaware.gov/">Business First Steps</a></p>
+            </div>
+            <div class="col-sm-3">
+				<p><a href="https://phonedirectory.delaware.gov">Phone Directory</a><br />
+				<a href="https://delaware.gov/locationsdirectory/">Locations Directory</a><br />
+				<a href="https://publicmeetings.delaware.gov/">Public Meetings</a><br />
+				<a href="https://elections.delaware.gov">Voting &amp; Elections</a><br />
+				<a href="https://delaware.gov/topics/transparency">Transparency</a><br />
+				<a href="https://www.choosehealthde.com/Health-Insurance">Delaware Marketplace</a><br />
+				<a href="https://delaware.gov/topics/TaxCenter">Tax Center</a><br />
+				<a href="https://revenue.delaware.gov/pit_onlinefiling.shtml">Personal Income Tax</a><br />
+				<a href="https://delaware.gov/help/privacy">Privacy Policy</a><br />
+				<a href="https://delaware.gov/topics/weatherpage">Weather &amp; Travel</a></p>
+            </div>
+            <div class="col-sm-3">
+				<p><a href="https://delaware.gov/help/degov-contact.shtml">Contact Us</a><br />
+				<a href="https://corp.delaware.gov/">Corporations</a><br />
+				<a href="https://corp.delaware.gov/paytaxes.shtml">Franchise Tax</a><br />
+				<a href="https://grossreceiptstax.delaware.gov/grtpublic/">Gross Receipts Tax</a><br />
+				<a href="https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll">Withholding Tax</a><br />
+				<a href="https://delaware.gov/topics/">Delaware Topics</a><br />
+				<a href="https://delaware.gov/help/">Help Center</a><br />
+				<a href="https://delaware.gov/topics/apps">Mobile Apps</a><br />
+				<a href="https://delaware.gov/topics/subscribeemail">E-mail / Text Alerts</a><br />
+				<a href="https://delaware.gov/topics/socialmedia">Social Media</a></p>
+            </div>
+            <div class="col-sm-3">
+              <img src="/img/portal_footer_seal.png" alt="State Seal of Delaware" class="hidden-xs img-responsive" />
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+      		<div class="col-sm-5 col-md-4 col-lg-4">
+        		<div class="social center-block">
+          			<div class="social_facebook">
+            			<a href="https://www.facebook.com/delaware.gov" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
+          			</div>
+          			<div class="social_twitter">
+            			<a href="https://twitter.com/delaware_gov/" target="_blank"><i class="fab fa-twitter-square fa-3x"></i></a>
+          			</div>
+          			<div class="social_flickr">
+            			<a href="https://www.flickr.com/groups/delaware_gov/" target="_blank"><i class="fab fa-flickr fa-3x"></i></a>
+          			</div>
+          			<div class="social_youtube">
+            			<a href="https://www.youtube.com/user/DelawareGovernment" target="_blank"><i class="fab fa-youtube-square fa-3x"></i></a>
+          			</div>
+          			<div class="social_rss">
+            			<a href="https://www.instagram.com/delaware_gov/" target="_blank"><i class="fab fa-instagram fa-3x"></i></a>
+          			</div>
+        		</div><div class="clear"></div><br />
+      		</div>
+      		<div class="col-sm-3">
+        		<div class="btn-group">
+          			<a class="btn btn-default btn-lg decreaseFont" href="#"><span class="wave_text">Make Text Size Smaler</span><i class="fas fa-minus"></i></a>
+          			<a class="btn btn-default btn-lg resetFont" href="#"><span class="wave_text">Reset Text Size</span><i class="fas fa-font"></i></a>
+          			<a class="btn btn-default btn-lg increaseFont" href="#"><span class="wave_text">Make Text Size Bigger</span><i class="fas fa-plus"></i></a>
+        		</div><br /><br />
+      		</div>
+      		<div class="col-sm-4 col-md-5 col-lg-5">
+            	<img src="/img/gic_portal_footer_logo@2x.png" alt="Built by the Government Information Center (GIC)" class="footer_logo" />
+        		<p>Built by the <a href="https://gic.delaware.gov">Government Information Center</a><br />
+        		&copy;MMXVIII <a href="https://delaware.gov">Delaware.gov</a></p>
+            </div>
+        </div>
+      </div><div class="pull-right"><a href="#" class="toggle-footer-btn">-</a></div>
+    </div>
+	
+	<!-- Retina Display JS Files -->
+    <script src="/js/classie.js"></script>
+    <script src="/js/uisearch.js"></script>
+    <script>
+		new UISearch( document.getElementById( 'sb-search' ) );
+	</script>
+    <script>
+		new UISearch( document.getElementById( 'sb-search-main' ) );
+	</script>

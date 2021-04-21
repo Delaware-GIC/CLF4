@@ -1,0 +1,6 @@
+<!-- Uncomment to use this section to use in emergency situations, when finished comment it out again to make it disappear -->
+
+<!--  <div id="ens" class="alert alert-danger">
+    <a type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true"><i class="fa fa-times fa-fw"></i></span></a>
+    <p><i class="fa fa-exclamation-circle fa-lg fa-fw"></i> <strong>Winter Weather Advisory is in full effect until Wednesday, December 11th 12am EST. Governor Jack Markell has closed state agencies in NCCO. <a href="http://news.delaware.gov/2013/12/10/governors-office-statement-on-weather-conditions/">More Info<i class="fa fa-long-arrow-right fa-fw"></i></a></strong></p>
+  </div>  -->

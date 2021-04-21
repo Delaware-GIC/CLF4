@@ -1,0 +1,30 @@
+  <div id="agencyFooter">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3">
+          <a href="/"><img src="/agency/img/ospc-new-logo-border.png" alt="Image of the Office of State Planning Coordination logo" class="agencyFooter_logo" /></a><br /><br />
+        </div>
+        <div class="col-sm-3">
+          <p><a href="/aboutagency.shtml">About the Office</a><br />
+          <a href="/ccspi.shtml">Cabinet Committee</a><br />
+          <a href="/services/budget.shtml">Capital Budget</a><br />
+          <a href="https://publicmeetings.delaware.gov/Search?q=&AnyAll=Any&AgencyID=121" target="_blank">Public Meetings</a><br />
+          <a href="/contact.shtml">Contact Information</a></p>
+        </div>
+        <div class="col-sm-3">
+          <p><a href="/plus/">PLUS</a><br />
+          <a href="/strategies/">2015 State Strategies</a><br />
+          <a href="/ddd/">Downtown Development</a><br />
+          <a href="/dgdc/">Geospatial Resources</a><br />
+          <a href="/services/annexation.shtml">Municipal Annexation</a></p>
+        </div>
+        <div class="col-sm-3">
+          <p><a href="/services/planning_assistance.shtml">Planning Assistance</a><br />
+          <a href="/information/development_trends.shtml">Development Trends</a><br />
+          <a href="/information/municipalities.shtml">Local Government</a><br />
+          <a href="/information/demography.shtml">Demographics</a><br />
+          <a href="https://omb.delaware.gov/foia.shtml" target="_blank">FOIA Requests</a></p>
+        </div>
+      </div>
+    </div><div class="pull-right"><a href="#" class="toggle-footer-btn">+</a></div>
+  </div>
