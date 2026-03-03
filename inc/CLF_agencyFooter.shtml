@@ -1,30 +1,58 @@
-  <div id="agencyFooter">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-3">
-          <a href="/"><img src="/agency/img/ospc-new-logo-border.png" alt="Image of the Office of State Planning Coordination logo" class="agencyFooter_logo" /></a><br /><br />
-        </div>
-        <div class="col-sm-3">
-          <p><a href="/aboutagency.shtml">About the Office</a><br />
-          <a href="/ccspi.shtml">Cabinet Committee</a><br />
-          <a href="/services/budget.shtml">Capital Budget</a><br />
-          <a href="https://publicmeetings.delaware.gov/Search?q=&AnyAll=Any&AgencyID=121" target="_blank">Public Meetings</a><br />
-          <a href="/contact.shtml">Contact Information</a></p>
-        </div>
-        <div class="col-sm-3">
-          <p><a href="/plus/">PLUS</a><br />
-          <a href="/strategies/">2015 State Strategies</a><br />
-          <a href="/ddd/">Downtown Development</a><br />
-          <a href="/dgdc/">Geospatial Resources</a><br />
-          <a href="/services/annexation.shtml">Municipal Annexation</a></p>
-        </div>
-        <div class="col-sm-3">
-          <p><a href="/services/planning_assistance.shtml">Planning Assistance</a><br />
-          <a href="/information/development_trends.shtml">Development Trends</a><br />
-          <a href="/information/municipalities.shtml">Local Government</a><br />
-          <a href="/information/demography.shtml">Demographics</a><br />
-          <a href="https://omb.delaware.gov/foia.shtml" target="_blank">FOIA Requests</a></p>
-        </div>
-      </div>
-    </div><div class="pull-right"><a href="#" class="toggle-footer-btn">+</a></div>
+<div id="feedback-button-area">
+  <div class="center-block text-center">
+    <a class="btn-de-feedback" data-toggle="collapse" href="#feedback" role="button" aria-expanded="true" aria-controls="feedback">Give Feedback <i class="fa fa-chevron-up fa-fw"></i></a>
   </div>
+</div>
+<div id="feedback" class="collapse" aria-expanded="false" style="">
+  <div id="gicfsfeebackform" class="container"><br>  
+    <h2><i class="fas fa-comments" aria-hidden="true"></i> Feedback</h2><br>
+    <p><span class="fsRequiredMarker">*</span> - required field</p>
+    <script type="text/javascript" src="https://degovforms.formstack.com/forms/js.php/web_page_feedback?referrer=webpage&nojquery=1&nojqueryui=1&nomodernizr=1"></script>
+    <noscript><a href="https://degovforms.formstack.com/forms/web_page_feedback" title="Online Form">Online Form - Portal Feedback Form</a></noscript>
+    <script type='text/javascript'>if (typeof $ == 'undefined' && jQuery){ $ = jQuery}</script>
+  </div>
+</div>
+<div id="agencyFooter">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <a href="/"
+          ><img
+            src="/img/placeholder-logo-footer.png"
+            alt="The Office of State Planning Coordination logo"
+            class="agencyFooter_logo" /></a
+        ><br /><br />
+      </div>
+      <div class="col-sm-3">
+        <ul>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <ul>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <ul>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+          <li><a href="#">Page Title</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="pull-right">
+    <a href="#" class="toggle-footer-btn"><span aria-hidden="true">+</span><span class="sr-only">Show state footer menu</span></a>
+  </div>
+</div>

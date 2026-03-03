@@ -1,0 +1,37 @@
+Here are some accessibility tips and practices that you can use when designing and developing CLF4	sites:
+
+1. Run an accessibility scan of your website
+
+As you are designing and developing your website, you can run accessibility checks on it using WebAIM WAVE: https://wave.webaim.org/. You can run tests by entering in a URL at the website. It'll show you what errors there are and give you guidance on how to fix them (the specificity of the guidance may vary).
+
+WAVE also has Chrome, Firefox, and Edge browser extensions that you can use. If you are testing sites that are still in staging or otherwise password-protected, then you will need to use a browser extension.
+
+2. Check the contrast of text and background colors.
+
+Sufficient color contrast helps make sure that text can be easily red against the website background color. The color contrast checker that we use is at https://webaim.org/resources/contrastchecker/. Enter in the text color hexadecimal value in the Foreground Color field and the background color hexadecimal value in the Background Color field. It needs to receive a passing mark under the WCAG AA field at minimum, but receiving a passing grade in the WCAG AAA field is also perfectly ok and encouraged!
+
+3. Make sure all of your images have alternative text.
+
+Whenever you use images on your site, make sure the image has alternative text that describes the content of the image. This is done for blind and low-vision website visitors who use screen readers. The screen reader will read the alternative text of an image. Example: <ing src="image-file.jpg" alt="Text that describes the content of the image" />
+
+4. Avoid empty links
+
+The WebAIM WAVE tool will detect if you have an empty link. Most of the time this occurs when you have turned an icon into a link but don't have any text that says what it links to. For example:
+
+<a href="#"><i class="fa fa-icon" aria-hidden="true"></i></a>
+
+The <i> tag generates an icon from the Font Awesome icon library that we use in CLF4. The aria-hidden="true" attribute hides it from screen readers and other assistive technologies. Therefore, the link is empty for users of assistive technologies, though sighted users can see the icon just fine.
+
+The way to fix this empty link is:
+
+<a href="#"><i class="fa fa-icon" aria-hidden="true"></i><span class="sr-only">Title of the website or page where the link goes to</span></a>
+
+Adding a <span> tag with the class of "sr-only" will make the title of the website or page where the link goes to visible to screen reader users but will hide it from the front-end for sighted users.
+
+5. Test your website only using your keyboard
+
+Many website visitors have mobility issues that don't allow them to use and click a mouse or a trackpad, so they navigate websites using their keyboard only. When building a website, make sure to test it using only your keyboard. Elements that should be able to be accessed by your keyboard are links, buttons, and form fields. 
+
+To go through keyboard accessible elements on your website, press the tab key to go forwards and hold the shift key while pressing the tab key to go backwards. Hit the return key or the space bar to activate links and buttons. Form elements such as multi-select dropdowns may be accessible using your arrow keys if they're not accessible using the tab key.
+
+
