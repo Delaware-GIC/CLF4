@@ -258,6 +258,12 @@ h6 {
   margin: 2em 0;
 }
 
+h2.main_footer {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+}
+
 .breadcrumb {
   background-color: #f5f5f5;
   border-radius: 0px 0px 0px 0px;
@@ -637,6 +643,7 @@ hr.light {
   border-top: 10px solid #245194;
   border-bottom: 10px solid #245194;
   font-size: 1.6rem;
+  font-weight: 300;
   line-height: 1.5em;
   display: none;
   clear: both;
@@ -660,9 +667,15 @@ hr.light {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-#footer li {
-  margin-bottom: 1em;
+#footer ul {
   list-style-type: none;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  padding-left: 0;
+}
+
+#footer p {
+  margin-bottom: 10px;
 }
 
 #footer hr {
