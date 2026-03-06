@@ -700,7 +700,7 @@ hr.light {
 #footer a,
 #footer a:link,
 #footer a:visited {
-  text-decoration: 1px underline;
+  text-decoration: none;
   color: #fff;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
@@ -769,7 +769,7 @@ a.skip-main {
 
 a.skip-main:focus,
 a.skip-main:active {
-  color: #333;
+  color: #333 !important;
   background-color: #fff;
   border-color: #ccc;
   display: inline-block;
